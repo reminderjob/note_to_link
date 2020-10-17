@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aa60d8ea120a4e52a2a7edc8ae311ef7)](https://app.codacy.com/gh/reminderjob/note_to_link?utm_source=github.com&utm_medium=referral&utm_content=reminderjob/note_to_link&utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/reminderjob/note_to_link.svg?branch=master)](https://travis-ci.org/reminderjob/note_to_link)
 
 # note_to_link
