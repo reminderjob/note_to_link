@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/reminderjob/note_to_link.svg?branch=master)](https://travis-ci.org/reminderjob/note_to_link)
-
+[![Coverage Status](https://coveralls.io/repos/github/reminderjob/note_to_link/badge.svg?branch=master)](https://coveralls.io/github/reminderjob/note_to_link?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/reminderjob/note_to_link/badge.svg)](https://snyk.io/test/github/reminderjob/note_to_link/)
 # note_to_link
 
 A new Flutter application to send push notifications and link to website.
